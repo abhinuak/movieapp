@@ -1,0 +1,29 @@
+.mov{
+    background-image: url(https://gallery.yopriceville.com/var/albums/Backgrounds/Theater_Background.jpg?m=1414595400);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.head2{
+
+    font-family: 'Metal Mania', system-ui;
+
+
+}
+.head{
+    color: rgb(255, 0, 0);
+    font-family: 'Playfair Display', serif;
+
+
+}
+.row1{
+    background-image: linear-gradient(180deg, rgb(0, 0, 0), rgba(255, 224, 113, 0), rgb(0, 0, 0));
+}
+.butoon{
+    margin-left: 45%;
+}
+.para{
+    font-family: 'Satisfy', cursive;
+    color: rgb(255, 255, 255);
+
+}
